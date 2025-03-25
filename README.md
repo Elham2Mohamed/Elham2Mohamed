@@ -1,4 +1,5 @@
-<div align="center">
+
+  
 # Elham Mohamed 👩‍💻  
 **Mobile Native Developer (iOS & Android)**  
 
@@ -47,5 +48,5 @@ Passionate mobile developer with expertise in both iOS and Android platforms. De
 
 ---
 
-</div>
+
 
